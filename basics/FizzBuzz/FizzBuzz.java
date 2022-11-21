@@ -1,4 +1,11 @@
 public class FizzBuzz {
+    
+    public static void main(String[] args) {
+        FizzBuzz fizzBuzz = new FizzBuzz();
+
+        fizzBuzz.fizzBuzz(10);
+    }
+
     public FizzBuzz() {}
 
     public void fizzBuzz(int n) {
@@ -18,8 +25,4 @@ public class FizzBuzz {
     }
 }
 
-    public static void main(String[] args) {
-        FizzBuzz fizzBuzz = new FizzBuzz();
-
-        fizzBuzz.fizzBuzz(10);
-    }
+    
