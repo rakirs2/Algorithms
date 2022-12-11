@@ -26,3 +26,4 @@ There are a lot of thoughts on "what is the best way to learn these things." I t
 2. When stuck, invest in understanding.
 3. Ask Questions
 
+I will not know everything. But I will do my best to figure it out.
